@@ -1,2 +1,5 @@
 # Projetos-Iniciais
-projetos iniciais emn html5 e css3
+Projetos Iniciais em HTML5 e CSS3
+
+
+Estou aorendendo a criar sites e agora vou gerenciar meus repositorios!
