@@ -48,6 +48,12 @@ main p{
     text-align: justify;
 }
 
+main picture{
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
+
 section{
     margin-left: -20px;
     margin-right: -20px;
@@ -66,5 +72,25 @@ section h1{
 section h2{
     font-family: 'holidays', serif;
     font-size: 0.8em;
+}
+
+aside{
+    border: 1px solid black;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+aside .inscricao{
+    padding: 10px;
+}
+
+aside input{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+aside input::placeholder{
+    
 }
 
